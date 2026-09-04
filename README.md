@@ -258,7 +258,7 @@ A figure-level textbox also summarizes RMS, peak, `fn`, and the dominant frequen
 
 ## Recording a Demo Video
 
-![Simulation demo](docs/simulation_demo.gif)
+![Simulation demo](simulation_demo.gif)
 
 The animation loop (Section 19) currently only draws to screen. To capture it as an `.mp4` for the [Demo](#demo) section, wrap the loop with `VideoWriter`:
 
